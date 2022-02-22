@@ -15,3 +15,5 @@
     <img height="20" src="https://qiita-badge.apiapi.app/s/niya1123/contributions.svg" />
   </a>
 </p>
+
+  ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=niya1123&show_icons=true&theme=radical)
